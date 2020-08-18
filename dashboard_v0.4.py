@@ -254,4 +254,4 @@ def update_graphs(n_clicks, intermediate_values, start, end, selected_users):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(host='0.0.0.0', debug=False)
