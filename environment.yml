@@ -1,4 +1,4 @@
-name: whatsapp-chat-analysis
+name: whatsapp-chats-analysis
 channels:
   - defaults
 dependencies:
