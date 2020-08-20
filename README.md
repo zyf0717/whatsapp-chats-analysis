@@ -1,6 +1,6 @@
 # Whatsapp Chats Analysis
 
-Done out of curiosity, and also as a short practice. 
+Done out of curiosity, and also to test the deployment of dashboard.
 
 Chats not uploaded for obvious reasons.
 
