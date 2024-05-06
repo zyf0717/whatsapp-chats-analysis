@@ -43,7 +43,7 @@ app.layout = html.Div([
                     id='upload-data',
                     children=html.Div([
                         'Drag and Drop or ',
-                        html.A('Select File')
+                        html.A('Select File (.txt)')
                     ]),
                     style={
                         'width': '100%',
