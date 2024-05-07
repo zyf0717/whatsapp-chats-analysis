@@ -45,6 +45,7 @@ def parse_whatsapp(input_df):
 
 def parse_telegram(input_df):
     df = input_df.copy()
+    df.date_unixtime = df.date_unixtime.apply(lambda x: int(x) + 8 * 60 * 60)  # For GMT+8
     df['Date'] = pd.to_datetime(df.date_unixtime, unit='s').dt.date
     df['Time'] = pd.to_datetime(df.date_unixtime, unit='s').dt.time
     df['MMYYYY'] = df.Date.apply(lambda x: x.strftime("%m/%Y"))
@@ -80,7 +81,7 @@ app.layout = html.Div([
                 html.Div(dcc.Upload(
                     id='upload-data',
                     children=html.Div([
-                        'Drag and Drop or',
+                        'Drag and Drop or ',
                         html.A('Select File (.txt or .json)')
                     ]),
                     style={
