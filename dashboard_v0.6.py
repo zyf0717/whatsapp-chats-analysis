@@ -177,10 +177,10 @@ def parse_data(contents):
         # Uncomment line below to exclude all media messages
         # df = df[df.Message != '<Media omitted>']
 
-        # Uncomment lines below to anonymize chats
-        # users = sorted(df.User.unique())
-        # users_map = dict(zip(users, range(1, len(users) + 1)))
-        # df.User = df.User.apply(lambda x: 'User ' + str(users_map[x]))
+        # Uncomment lines below to anonymize users
+        users = sorted(df.User.unique())
+        users_map = dict(zip(users, range(1, len(users) + 1)))
+        df.User = df.User.apply(lambda x: 'User ' + str(users_map[x]))
 
     return df.to_json(date_format='iso', orient='split')
     
