@@ -178,9 +178,7 @@ def parse_data(contents):
         # df = df[df.Message != '<Media omitted>']
 
         # Uncomment lines below to anonymize users
-        users = sorted(df.User.unique())
-        users_map = dict(zip(users, range(1, len(users) + 1)))
-        df.User = df.User.apply(lambda x: 'User ' + str(users_map[x]))
+        df.User = [f'User {x}' for x in df['from'].factorize()[0]]
 
     return df.to_json(date_format='iso', orient='split')
     

@@ -163073,13 +163073,191 @@
    "type": "message",
    "date": "2024-05-07T08:04:13",
    "date_unixtime": "1715040253",
+   "edited": "2024-05-07T08:19:55",
+   "edited_unixtime": "1715041195",
    "from": "Yifei Zheng",
    "from_id": "user279124814",
-   "text": "Eh, overnight got people camp at at the SSOs, and by the time they go home the morning shift of 4+am started already 😂\n\nThis is some insane 24/7 obsession.",
+   "text": "Eh, overnight got people camp at at the SSOs, and by the time they go home the morning shift of 4+am started already 😂\n\nThis is some insane 24/7 obsession (and protection 😂).",
    "text_entities": [
     {
      "type": "plain",
-     "text": "Eh, overnight got people camp at at the SSOs, and by the time they go home the morning shift of 4+am started already 😂\n\nThis is some insane 24/7 obsession."
+     "text": "Eh, overnight got people camp at at the SSOs, and by the time they go home the morning shift of 4+am started already 😂\n\nThis is some insane 24/7 obsession (and protection 😂)."
+    }
+   ]
+  },
+  {
+   "id": 25656,
+   "type": "message",
+   "date": "2024-05-07T08:49:39",
+   "date_unixtime": "1715042979",
+   "edited": "2024-05-07T10:34:20",
+   "edited_unixtime": "1715049260",
+   "from": "Yifei Zheng",
+   "from_id": "user279124814",
+   "text": [
+    "Nice, male Common Iora — it’s a common resident but not that easily seen.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/p/C6oFqvByR9u/?igsh=MTA4aXkyOGl2d3g3cA=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nice, male Common Iora — it’s a common resident but not that easily seen.\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/p/C6oFqvByR9u/?igsh=MTA4aXkyOGl2d3g3cA=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 25657,
+   "type": "message",
+   "date": "2024-05-07T10:34:17",
+   "date_unixtime": "1715049257",
+   "from": "Pamela Ng",
+   "from_id": "user62299260",
+   "reply_to_message_id": 25656,
+   "text": "yas 😂 the level of excitement I had shooting it was",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yas 😂 the level of excitement I had shooting it was"
+    }
+   ]
+  },
+  {
+   "id": 25658,
+   "type": "message",
+   "date": "2024-05-07T10:35:36",
+   "date_unixtime": "1715049336",
+   "from": "Pamela Ng",
+   "from_id": "user62299260",
+   "reply_to_message_id": 25653,
+   "text": "😂 why is GP like this.. on this topic feels almost like one has to prove their points and the subject's worth",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂 why is GP like this.. on this topic feels almost like one has to prove their points and the subject's worth"
+    }
+   ]
+  },
+  {
+   "id": 25659,
+   "type": "message",
+   "date": "2024-05-07T10:35:56",
+   "date_unixtime": "1715049356",
+   "from": "Pamela Ng",
+   "from_id": "user62299260",
+   "reply_to_message_id": 25655,
+   "text": "walao it's like the otterwatch people but for birds now",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "walao it's like the otterwatch people but for birds now"
+    }
+   ]
+  },
+  {
+   "id": 25660,
+   "type": "message",
+   "date": "2024-05-07T10:35:59",
+   "date_unixtime": "1715049359",
+   "from": "Yifei Zheng",
+   "from_id": "user279124814",
+   "reply_to_message_id": 25658,
+   "text": "General Paper is garbage, that's why.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "General Paper is garbage, that's why."
+    }
+   ]
+  },
+  {
+   "id": 25661,
+   "type": "message",
+   "date": "2024-05-07T10:36:14",
+   "date_unixtime": "1715049374",
+   "from": "Yifei Zheng",
+   "from_id": "user279124814",
+   "reply_to_message_id": 25659,
+   "text": "eh i don't get the otterwatch people 😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "eh i don't get the otterwatch people 😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 25662,
+   "type": "message",
+   "date": "2024-05-07T10:53:41",
+   "date_unixtime": "1715050421",
+   "from": "Pamela Ng",
+   "from_id": "user62299260",
+   "reply_to_message_id": 25661,
+   "text": "haha I don't either",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha I don't either"
+    }
+   ]
+  },
+  {
+   "id": 25663,
+   "type": "message",
+   "date": "2024-05-07T10:53:51",
+   "date_unixtime": "1715050431",
+   "edited": "2024-05-07T10:56:44",
+   "edited_unixtime": "1715050604",
+   "from": "Pamela Ng",
+   "from_id": "user62299260",
+   "text": "they even have passports / IDs to recognise who is who",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "they even have passports / IDs to recognise who is who"
+    }
+   ]
+  },
+  {
+   "id": 25664,
+   "type": "message",
+   "date": "2024-05-07T10:57:35",
+   "date_unixtime": "1715050655",
+   "from": "Yifei Zheng",
+   "from_id": "user279124814",
+   "reply_to_message_id": 25663,
+   "text": "WTF that’s insane, but then again if you’re only watching a limited number of individuals of 1 species, there’s probably nothing better to do 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTF that’s insane, but then again if you’re only watching a limited number of individuals of 1 species, there’s probably nothing better to do 😂"
+    }
+   ]
+  },
+  {
+   "id": 25665,
+   "type": "message",
+   "date": "2024-05-07T10:58:22",
+   "date_unixtime": "1715050702",
+   "from": "Yifei Zheng",
+   "from_id": "user279124814",
+   "text": "So I guess for them it’s to track intra species — like lineage (if that’s even possible), gang fights, dispersion and the likes.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So I guess for them it’s to track intra species — like lineage (if that’s even possible), gang fights, dispersion and the likes."
     }
    ]
   }
